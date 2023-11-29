@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T09:42:13.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="840wIngpxL4A_uOl5jUS" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:17:04.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="63tQa_RLOTa1x1uVlPvR" version="22.1.4" type="github">
   <diagram name="Page-1" id="VNpDdMA61mTD8n4Xb6k6">
-    <mxGraphModel dx="721" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,18 @@
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-4" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Everything has to be built around k8s&lt;br&gt;All processes must be containerised&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="60" width="600" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-6" target="WMzcFvWljK9FB4DfkzLR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-6" target="WMzcFvWljK9FB4DfkzLR-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.31;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-6" target="WMzcFvWljK9FB4DfkzLR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-6" target="WMzcFvWljK9FB4DfkzLR-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-6" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Swiftly&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="190" width="190" height="120" as="geometry" />
@@ -24,6 +36,9 @@
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-12" value="Kactus&lt;br&gt;Ingest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-15" target="WMzcFvWljK9FB4DfkzLR-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-15" value="Kactus&lt;br&gt;Ingest" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="480" width="120" height="60" as="geometry" />
@@ -63,6 +78,60 @@
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-23" value="Data will propagate to other DC&#39;s via Aspen realtime layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="500" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-31" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="630" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-32" value="Kactus Public Developer API&lt;br&gt;&lt;br&gt;(based on v1 kactus, should be&lt;br&gt;backwards compatible)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WMzcFvWljK9FB4DfkzLR-31">
+          <mxGeometry x="5" y="30" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.995;exitY=0.63;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-34" target="WMzcFvWljK9FB4DfkzLR-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-34" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=cronjob" vertex="1" parent="1">
+          <mxGeometry x="730" y="190" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-35" value="Static Data ingest" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="170" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-36" value="Postgres&lt;br&gt;GTFS&lt;br&gt;Static&lt;br&gt;Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="610" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-39" target="WMzcFvWljK9FB4DfkzLR-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-39" value="Ingester Trigger Cron" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-40" value="Has to be distributed. How?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="870" y="129.52" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-41" value="Compare data to previous schedule, store previous &amp;amp; diff and alert users to changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="250" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-43" target="WMzcFvWljK9FB4DfkzLR-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-43" value="Download" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-45" target="WMzcFvWljK9FB4DfkzLR-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-45" value="MD5 hash each zip file" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-47" target="WMzcFvWljK9FB4DfkzLR-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-47" value="New Data?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WMzcFvWljK9FB4DfkzLR-53" value="Diff the files?&lt;br&gt;&lt;br&gt;Look for differences and only ingest the only thing?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="355" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

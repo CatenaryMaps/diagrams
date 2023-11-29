@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T10:47:59.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="CCdJTt0yMIj8OPQlXL8h" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T10:48:11.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bXbPvltY59-e11cXTbsS" version="22.1.4" type="github">
   <diagram name="Page-1" id="VNpDdMA61mTD8n4Xb6k6">
-    <mxGraphModel dx="1390" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
+    <mxGraphModel dx="1978" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="10000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,16 +157,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-64" value="Is file size&lt;br&gt;different" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1220" width="80" height="80" as="geometry" />
+          <mxGeometry x="1320" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-65" value="ingest!" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1380" width="120" height="80" as="geometry" />
+          <mxGeometry x="1520" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-68" target="WMzcFvWljK9FB4DfkzLR-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-68" value="Is MD5 different" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1220" width="80" height="80" as="geometry" />
+          <mxGeometry x="1490" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.898;entryY=0.166;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WMzcFvWljK9FB4DfkzLR-68" target="WMzcFvWljK9FB4DfkzLR-65">
           <mxGeometry relative="1" as="geometry" />
@@ -177,7 +177,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-73" value="No" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="550" y="1080" width="80" height="80" as="geometry" />
+          <mxGeometry x="1510" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WMzcFvWljK9FB4DfkzLR-76" value="Data structure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="730" width="60" height="30" as="geometry" />

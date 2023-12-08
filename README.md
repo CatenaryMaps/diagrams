@@ -1,3 +1,3 @@
 # diagrams
 
-Open diagrams in https://app.diagrams.net/
+Moved to https://github.com/CatenaryMaps/documentation
